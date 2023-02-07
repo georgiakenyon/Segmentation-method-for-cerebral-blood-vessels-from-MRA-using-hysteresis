@@ -1,5 +1,5 @@
 #APPLY HESSIAN FILTER TO DATA
-#Run with parameter: --sigma = σ
+#Run with parameter: --sigma = σ (0.47 & 0.94 orig)
 
 import argparse
 import os
